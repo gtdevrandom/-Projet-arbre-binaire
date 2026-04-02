@@ -127,7 +127,7 @@ Ce projet est idéal pour :
 ---
 ## 👨‍💻 Auteur et License
 
-Projet réalisé dans un objectif d’apprentissage et de pratique en développement par gtdevrandom.
+Projet réalisé dans un objectif d’apprentissage et de pratique en développement par [gtdevrandom](https://gtdevrandom.github.io/Portfolio).
 Projet sous la [License Mit](LICENSE)
 
 ---
